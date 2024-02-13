@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "788124595860",
+    "project_id": "pixmania-182c7",
+    "storage_bucket": "pixmania-182c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788124595860:android:dc1a87a1f2c7901c1de681",
+        "android_client_info": {
+          "package_name": "com.example.pixmania"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788124595860-cvnq41rfgh1vob9qh9af643c1qp2mqi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8bNpQQdFBC6K9jIvM583v6RXQa3Gk2fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788124595860-cvnq41rfgh1vob9qh9af643c1qp2mqi1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "788124595860-npp762pk9tr09hg4j8ajdqoqou95ecun.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pixmania"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
