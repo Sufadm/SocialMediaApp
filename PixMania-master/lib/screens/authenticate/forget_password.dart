@@ -30,7 +30,7 @@ class _ForgetPasswordState extends State<ForgetPassword> {
         backgroundColor: Colors.transparent,
         elevation: 0,
         flexibleSpace: const CustomAppbar(),
-        title: Image.asset("assets/logo/logo_transparent.png"),
+        title: Image.asset("assets/logo/logo_transparent.pn"),
         automaticallyImplyLeading: false,
         toolbarHeight: 130,
       ),
